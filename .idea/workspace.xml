@@ -5,57 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30892780-a190-42d2-b2b7-58d402db7133" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/src/chat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/styles/chat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/chat.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutusstyles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bmi.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bmi.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bmi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/breakfast.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/breakfast.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dinner.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dinner.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dyte.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/avocado.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/chicken.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/curry.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/diet-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/diet-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/diet-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/diet-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/food1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/food2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/food3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/home.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/newsletter.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/oatmeal.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pasta.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pepper.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/salad.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/salmon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sandwhich.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/service-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/service-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/service-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/smoothie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/stir.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/yougurt.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lunch.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lunch.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plans.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plans.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1723650015408</updated>
       <workItem from="1723650018070" duration="910000" />
-      <workItem from="1723652443162" duration="5048000" />
+      <workItem from="1723652443162" duration="5111000" />
     </task>
     <servers />
   </component>
