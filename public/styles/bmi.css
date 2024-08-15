@@ -9,7 +9,7 @@
     --bg: rgb(242, 242, 242);   
     --light-black: rgb(102, 102, 102);
     --font-size: 1.5rem;
-    --spacing: 16ox
+    --spacing: 16 ox
 }
 
     *{
@@ -204,7 +204,7 @@ button.calculate {
     font-family: 'Poppins', sans-serif;
     font-weight: 200;
     font-size: 14px;
-    transition: all 0.5;
+    transition: all 0.5s;
 }
 
 .footer-text:hover {

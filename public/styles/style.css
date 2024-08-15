@@ -8,7 +8,7 @@
     --bg: rgb(242, 242, 242);   
     --light-black: rgb(102, 102, 102);
     --font-size: 1.5rem;
-    --spacing: 16ox
+    --spacing: 16 ox
 }
 
 
@@ -218,7 +218,7 @@ section{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(images/home.jpg) no-repeat;
+    background: url(../images/home.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -611,7 +611,7 @@ section{
   }
 
 .newsletter{
-    background: url(images/newsletter.jpg)  no-repeat center / cover ;  
+    background: url(../images/newsletter.jpg)  no-repeat center / cover ;
     margin-bottom: 100px;
     z-index: 100;
 }

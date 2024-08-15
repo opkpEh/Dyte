@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30892780-a190-42d2-b2b7-58d402db7133" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/src/chat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/chat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/chat.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutusstyles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bmi.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bmi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bmi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/breakfast.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/breakfast.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dinner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dinner.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dyte.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avocado.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/chicken.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/curry.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/diet-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/diet-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/diet-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/diet-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/food1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/food2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/food3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/newsletter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/oatmeal.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pasta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pepper.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/salad.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/salmon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sandwhich.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/service-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/service-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/service-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/smoothie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/stir.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/yougurt.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lunch.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lunch.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plans.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plans.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;opkpEh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/opkpEh/Dyte.git&quot;,
+    &quot;accountId&quot;: &quot;c3def74e-2b0d-4eb6-8673-b363d44e256a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2kehaMinuISbl205v9KciUvusRn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.1.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17890.13" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30892780-a190-42d2-b2b7-58d402db7133" name="Changes" comment="" />
+      <created>1723650015408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723650015408</updated>
+      <workItem from="1723650018070" duration="910000" />
+      <workItem from="1723652443162" duration="5048000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

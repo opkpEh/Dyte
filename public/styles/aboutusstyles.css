@@ -8,7 +8,7 @@
     --bg: rgb(242, 242, 242);   
     --light-black: rgb(102, 102, 102);
     --font-size: 1.5rem;
-    --spacing: 16ox
+    --spacing: 16 ox
 }
 
 *
@@ -125,7 +125,6 @@ body {
   width:60rem;
   overflow: hidden;
   word-wrap: break-word;
-  margin: center;
   font-size: 1.2rem;
 }
 
